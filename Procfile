@@ -1,0 +1,1 @@
+web: java -jar target/servertest-1.0-SNAPSHOT.jar
